@@ -1,0 +1,46 @@
+{
+  "name": "surgey",
+  "version": "1.0.0",
+  "description": "Surgical tracker",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PHDorin/Surgey.git"
+  },
+  "dependencies": {
+    "@angular/common": "~2.1.0",
+    "@angular/compiler": "~2.1.0",
+    "@angular/core": "~2.1.0",
+    "@angular/forms": "~2.1.0",
+    "@angular/http": "~2.1.0",
+    "@angular/platform-browser": "~2.1.0",
+    "@angular/platform-browser-dynamic": "~2.1.0",
+    "@angular/router": "~3.1.0",
+    "asyncawait": "^1.0.6",
+    "bluebird": "^3.4.6",
+    "body-parser": "^1.15.2",
+    "cheerio": "^0.22.0",
+    "core-js": "^2.4.1",
+    "express": "^4.14.0",
+    "jStat": "^1.5.3",
+    "morgan": "^1.7.0",
+    "mysql": "^2.12.0",
+    "phantom": "^3.2.0",
+    "request": "^2.78.0",
+    "request-promise": "^4.1.1",
+    "rxjs": "5.0.0-beta.12",
+    "sequelize": "^3.25.0",
+    "ts-helpers": "^1.1.1",
+    "zone.js": "^0.6.23"
+  },
+  "author": "Philip Dorin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PHDorin/Surgey/issues"
+  },
+  "homepage": "https://github.com/PHDorin/Surgey#readme"
+}
