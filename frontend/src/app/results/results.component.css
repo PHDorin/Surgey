@@ -1,0 +1,15 @@
+div {
+    padding-left:5%;
+}
+
+.results {
+    height:100px;
+    width:100%;
+    text-align: center;
+}
+
+.prediction {
+    height:100px;
+    width:100%;
+    text-align: center;
+}
